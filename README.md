@@ -59,7 +59,7 @@ A small Python project for measuring typing speed. One of my earlier projects as
 
 | Area | Technologies |
 |---|---|
-| **Languages** | TypeScript, JavaScript, Python, SQL, HTML, CSS |
+| **Languages** | TypeScript, JavaScript, Python, SQL, Next.js |
 | **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
 | **Backend & APIs** | Node.js, Express, REST APIs, Prisma |
 | **Databases** | PostgreSQL, MongoDB |
