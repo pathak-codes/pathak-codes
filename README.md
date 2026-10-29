@@ -1,61 +1,122 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Kartik%20Pathak&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=500&lines=AI+Full-Stack+Developer;Building+Intelligent+Products;Shipping+ideas+into+real+products" />
 
-  <img src="https://komarev.com/ghpvc/?username=pathak-codes&style=for-the-badge&color=11998e" alt="Profile Views"/>
-</div>
+```markdown
+```text
+██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗
+██╔══██╗██║  ██║██╔═══██╗██╔════╝████╗  ██║██║╚██╗██╔╝
+██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║██║ ╚███╔╝
+██╔═══╝ ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗
+██║     ██║  ██║╚██████╔╝███████╗██║ ╚████║██║██╔╝ ██╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
 
----
+```
 
-## About Me
+```text
+$ whoami
+> pathak-codes — cybersecurity intern & full-stack developer | automated forensics | builder of systems
 
-- Self-taught and hungry to break & build
-- Blending AI + FSD | automating the grind
-- Learn by building, fail fast, iterate faster
-- Code, chaos, and curiosity — that's the stack
-
----
-
-## Tech Stack
-
-<div align="center">
-
-| Domain | Technologies |
-|:---|:---|
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **AI/ML** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-</div>
+```
 
 ---
 
-## GitHub Stats
+### `$ cat operator_profile.txt`
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pathak-codes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&icon_color=38ef7d&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathak-codes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38ef7d&text_color=ffffff" alt="Top Languages" />
-</div>
+```text
+Name     : Kartik Pathak
+Role     : Cybersecurity Intern @ Cyber Cell | Full-Stack & Computer Vision Developer
+OS       : Windows 11 + WSL2 (Ubuntu) // "VS Code + WSL, btw"
+Shell    : PowerShell + Bash
+Focus    : Automated CCTV Face Forensics / SCRFD & ArcFace / Web App Architectures
+Status   : Building. Analyzing. Optimizing.
+Target   : Forensic Automation / On-Demand Service Engines / Security Engineering
+Certs    : BCA (Full Stack) [in progress] → Security & CV Forensics Focus
 
-<div align="center">
-  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=pathak-codes&theme=dark&hide_border=true&background=0d1117&ring=38ef7d&fire=38ef7d&currStreakLabel=38ef7d" alt="GitHub Streak" />
-</div>
+```
 
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-pathak-379959269/)
-
-</div>
+> *"Security isn't an feature you add; it's the architecture you design."*
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=100&section=footer"/>
-</div>
+### `$ ls -la projects/`
+
+🔒 **[ATM CCTV Automated Face Analysis System](https://github.com/pathak-codes)** — *Forensic CCTV Face Processing Pipeline*
+
+> High-degradation CCTV face detection, 512-D ArcFace embedding extraction, and multi-frame similarity scoring for law enforcement analysis.
+
+```text
+Stack  : Python • OpenCV • SCRFD • ArcFace • InsightFace
+Crypto : Cosine Similarity Matrix • 512-D Vector Normalization
+Features: Multi-frame quality scoring • Forensic reporting • CCTV frame restoration
+Status : ████████████████░░░░ 80% — Stage 1 Testing & Deployment
+
+```
+
+`#computer-vision` `#forensics` `#cybersecurity` `#python`
+
+---
+
+⚡ **[dev-utility-tool](https://github.com/pathak-codes/dev-utility-tool)** — *Lightweight CLI & Utilities Package*
+
+> Zero-dependency Node.js CLI toolkit for text analysis, JSON stream parsing, and automated logging helpers.
+
+```text
+Stack  : TypeScript • Node.js • GitHub Actions CI
+Features: Line/word/char analysis • JSON logging engine • Typed environment loaders
+Tests  : 12 passing • Multi-version Node matrix (20/22)
+Status : ████████████████████ 100% — Stable
+
+```
+
+`#typescript` `#cli` `#dev-tools` `#github-actions`
+
+---
+
+🌐 **On-Demand Local Home Services Engine** — *Marketplace & Provider Matching Platform*
+
+> Hyperlocal service orchestration platform built with a 5 km spatial matching engine, dynamic hybrid pricing, and commission wallet recovery workflows.
+
+```text
+Stack  : React • Node.js • Express • MongoDB • Docker
+Features: 5km Geo-matching • Dynamic surge pricing • Wallet commission logic
+Status : ██████████████░░░░░░ 70% — Pilot Pre-Launch
+
+```
+
+`#fullstack` `#react` `#nodejs` `#system-design` `#mongodb`
+
+---
+
+### `$ nmap -sV --skills`
+
+#### Cybersecurity & Forensics
+
+#### Languages & Core
+
+#### Web, DB & DevOps
+
+#### Operating Systems & Environment
+
+---
+
+### `$ cat stats.log`
+
+---
+
+### `$ ps aux | grep roadmap`
+
+```text
+[████████████████████] Full-Stack BCA           — active degree track
+[████████████████░░░░] Forensic CCTV Pipeline  — automated face analysis testing
+[████████████░░░░░░░░] Local Services Engine   — pilot deployment phase
+[████████░░░░░░░░░░░░] Advanced Vision Models  — 3D face mesh & restoration research
+[████░░░░░░░░░░░░░░░░] Security Certifications — upcoming targets
+
+```
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│ Open to: Cybersecurity Engineering • Computer Vision • Full Stack      │
+│ Remote Global Roles & Local Collaborations                             │
+└────────────────────────────────────────────────────────────────────────┘
+
+```
