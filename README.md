@@ -1,6 +1,3 @@
-
-
-```markdown
 ```text
 ██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗
 ██╔══██╗██║  ██║██╔═══██╗██╔════╝████╗  ██║██║╚██╗██╔╝
@@ -8,115 +5,92 @@
 ██╔═══╝ ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗
 ██║     ██║  ██║╚██████╔╝███████╗██║ ╚████║██║██╔╝ ██╗
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
-
 ```
 
-```text
-$ whoami
-> pathak-codes — cybersecurity intern & full-stack developer | automated forensics | builder of systems
+# Kartik Pathak
 
-```
+**Full-Stack Developer · Computer Vision · Security Automation**
+
+I build web applications, developer tools, and automation systems. I'm pursuing a **BCA in Full Stack Development at Jaipur National University (expected 2027)** and have internship experience with the **Rajasthan Police Cyber Cell**. My work spans React/Node.js applications, Python tooling, and experiments in computer vision and security workflows.
+
+[GitHub](https://github.com/pathak-codes) · [Email](mailto:kartikpathak883@gmail.com)
 
 ---
 
-### `$ cat operator_profile.txt`
+### `$ whoami`
 
 ```text
-Name     : Kartik Pathak
-Role     : Cybersecurity Intern @ Cyber Cell | Full-Stack & Computer Vision Developer
-OS       : Windows 11 + WSL2 (Ubuntu) // "VS Code + WSL, btw"
-Shell    : PowerShell + Bash
-Focus    : Automated CCTV Face Forensics / SCRFD & ArcFace / Web App Architectures
-Status   : Building. Analyzing. Optimizing.
-Target   : Forensic Automation / On-Demand Service Engines / Security Engineering
-Certs    : BCA (Full Stack) [in progress] → Security & CV Forensics Focus
-
+Focus    : Full-stack applications, security tooling, applied computer vision
+Build    : Useful software with clear interfaces and maintainable foundations
+Explore  : Automation, forensic workflows, API design, system architecture
+Environment: Windows · WSL2/Ubuntu · PowerShell · Bash
 ```
-
-> *"Security isn't an feature you add; it's the architecture you design."*
-
----
 
 ### `$ ls -la projects/`
 
-🔒 **[ATM CCTV Automated Face Analysis System](https://github.com/pathak-codes)** — *Forensic CCTV Face Processing Pipeline*
+#### [Argus](https://github.com/pathak-codes/argus) — Network Discovery & Evidence Capture
 
-> High-degradation CCTV face detection, 512-D ArcFace embedding extraction, and multi-frame similarity scoring for law enforcement analysis.
+A Python tool that coordinates Nmap-based discovery, extracts service/page titles, filters noisy terminal output, and captures browser screenshots concurrently.
 
-```text
-Stack  : Python • OpenCV • SCRFD • ArcFace • InsightFace
-Crypto : Cosine Similarity Matrix • 512-D Vector Normalization
-Features: Multi-frame quality scoring • Forensic reporting • CCTV frame restoration
-Status : ████████████████░░░░ 80% — Stage 1 Testing & Deployment
+`Python` `Nmap` `Automation` `Headless Browser`
 
-```
+> Use only on systems you own or are explicitly authorized to assess.
 
-`#computer-vision` `#forensics` `#cybersecurity` `#python`
+#### [dev-utility-tool](https://github.com/pathak-codes/dev-utility-tool) — Lightweight CLI Toolkit
 
----
+A TypeScript/Node.js command-line tool for counting lines, words, and characters from files or piped standard input. Supports script-friendly JSON output and has no runtime dependencies.
 
-⚡ **[dev-utility-tool](https://github.com/pathak-codes/dev-utility-tool)** — *Lightweight CLI & Utilities Package*
+`TypeScript` `Node.js` `CLI` `GitHub Actions`
 
-> Zero-dependency Node.js CLI toolkit for text analysis, JSON stream parsing, and automated logging helpers.
+#### [Ceiling Hub Premium](https://github.com/pathak-codes/ceiling-hub-premium) — Product Catalogue Website
 
-```text
-Stack  : TypeScript • Node.js • GitHub Actions CI
-Features: Line/word/char analysis • JSON logging engine • Typed environment loaders
-Tests  : 12 passing • Multi-version Node matrix (20/22)
-Status : ████████████████████ 100% — Stable
+A frontend project for a client-facing product catalogue, focused on product discovery and clear enquiry flows rather than checkout-based e-commerce.
 
-```
+`React` `Vite` `Tailwind CSS` `Framer Motion`
 
-`#typescript` `#cli` `#dev-tools` `#github-actions`
+#### [Typing Speed Analyzer](https://github.com/pathak-codes/Typing-Speed-Analyzer) — Python Project
+
+A typing-speed analysis project built with Python.
+
+`Python`
 
 ---
 
-🌐 **On-Demand Local Home Services Engine** — *Marketplace & Provider Matching Platform*
+### `$ tail -n +1 current-work.log`
 
-> Hyperlocal service orchestration platform built with a 5 km spatial matching engine, dynamic hybrid pricing, and commission wallet recovery workflows.
+**CCTV Face-Analysis Pipeline — research prototype**  
+Exploring face detection on degraded footage, SCRFD, ArcFace/InsightFace embeddings, frame-quality scoring, and similarity ranking. The goal is to support review of difficult footage, not to treat a model score as proof of identity. This project is in progress and does not have a public repository linked here.
 
-```text
-Stack  : React • Node.js • Express • MongoDB • Docker
-Features: 5km Geo-matching • Dynamic surge pricing • Wallet commission logic
-Status : ██████████████░░░░░░ 70% — Pilot Pre-Launch
-
-```
-
-`#fullstack` `#react` `#nodejs` `#system-design` `#mongodb`
+**On-Demand Local Home Services Engine — product prototype**  
+A hyperlocal service marketplace concept covering provider matching, location-based discovery, pricing logic, and commission-wallet workflows.
 
 ---
 
 ### `$ nmap -sV --skills`
 
-#### Cybersecurity & Forensics
+| Area | Tools and technologies |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, SQL, HTML, CSS |
+| **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, REST APIs, Prisma |
+| **Databases** | PostgreSQL, MongoDB |
+| **Computer Vision** | OpenCV, SCRFD, ArcFace, InsightFace |
+| **Security & Automation** | Nmap, Python automation, forensic workflow prototyping |
+| **Tools & Environment** | Git, GitHub Actions, Docker, Windows, WSL2/Ubuntu, PowerShell, Bash |
 
-#### Languages & Core
+### `$ cat education.log`
 
-#### Web, DB & DevOps
-
-#### Operating Systems & Environment
+```text
+Degree   : BCA — Full Stack Development
+Institute: Jaipur National University, Jaipur
+Expected : 2027
+Experience: Cybersecurity internship — Rajasthan Police Cyber Cell
+```
 
 ---
 
-### `$ cat stats.log`
+### `$ printf 'looking for next challenge\n'`
 
----
+Open to **junior full-stack / software development roles** and opportunities involving **React, Node.js, automation, computer vision, or security tooling**. Interested in remote and on-site teams, practical engineering problems, and collaborations where I can contribute and keep learning.
 
-### `$ ps aux | grep roadmap`
-
-```text
-[████████████████████] Full-Stack BCA           — active degree track
-[████████████████░░░░] Forensic CCTV Pipeline  — automated face analysis testing
-[████████████░░░░░░░░] Local Services Engine   — pilot deployment phase
-[████████░░░░░░░░░░░░] Advanced Vision Models  — 3D face mesh & restoration research
-[████░░░░░░░░░░░░░░░░] Security Certifications — upcoming targets
-
-```
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ Open to: Cybersecurity Engineering • Computer Vision • Full Stack      │
-│ Remote Global Roles & Local Collaborations                             │
-└────────────────────────────────────────────────────────────────────────┘
-
-```
+> “Security isn't a feature you bolt on; it's a property you design into the system.”
