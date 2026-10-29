@@ -1,96 +1,81 @@
-```text
+<div align="center">
+
+<pre>
 ██████╗ ██╗  ██╗ ██████╗ ███████╗███╗   ██╗██╗██╗  ██╗
 ██╔══██╗██║  ██║██╔═══██╗██╔════╝████╗  ██║██║╚██╗██╔╝
 ██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║██║ ╚███╔╝
 ██╔═══╝ ██╔══██║██║   ██║██╔══╝  ██║╚██╗██║██║ ██╔██╗
 ██║     ██║  ██║╚██████╔╝███████╗██║ ╚████║██║██╔╝ ██╗
 ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
-```
+</pre>
 
 # Kartik Pathak
 
-**Full-Stack Developer · Computer Vision · Security Automation**
-
-I build web applications, developer tools, and automation systems. I'm pursuing a **BCA in Full Stack Development at Jaipur National University (expected 2027)** and have internship experience with the **Rajasthan Police Cyber Cell**. My work spans React/Node.js applications, Python tooling, and experiments in computer vision and security workflows.
+**Full-Stack Development · Security Automation · Applied Computer Vision**
 
 [GitHub](https://github.com/pathak-codes) · [Email](mailto:kartikpathak883@gmail.com)
+
+</div>
 
 ---
 
 ### `$ whoami`
 
-```text
-Focus    : Full-stack applications, security tooling, applied computer vision
-Build    : Useful software with clear interfaces and maintainable foundations
-Explore  : Automation, forensic workflows, API design, system architecture
-Environment: Windows · WSL2/Ubuntu · PowerShell · Bash
-```
+I'm a BCA Full Stack Development student at **Jaipur National University (graduating 2027)** with internship experience at the **Rajasthan Police Cyber Cell**. I build practical web applications, developer tools, and automation workflows—with a growing focus on security engineering and computer vision.
 
-### `$ ls -la projects/`
+I care about software that is useful, testable, understandable, and built for real workflows—not just demos that look good in a screenshot.
 
-#### [Argus](https://github.com/pathak-codes/argus) — Network Discovery & Evidence Capture
+### `$ ls projects/`
 
-A Python tool that coordinates Nmap-based discovery, extracts service/page titles, filters noisy terminal output, and captures browser screenshots concurrently.
+#### [ARGUS](https://github.com/pathak-codes/argus) — Network Discovery & Evidence Capture
+A Python-based workflow for Nmap-driven network discovery, HTTP analysis, content triage, and concurrent browser screenshots. Built to turn noisy scan output into evidence that is easier to review.
 
-`Python` `Nmap` `Automation` `Headless Browser`
+`Python` `Nmap` `HTTP Analysis` `Automation`
 
-> Use only on systems you own or are explicitly authorized to assess.
+*Use only against systems you own or are explicitly authorized to assess.*
 
-#### [dev-utility-tool](https://github.com/pathak-codes/dev-utility-tool) — Lightweight CLI Toolkit
+#### [Ceiling Hub Premium](https://github.com/pathak-codes/ceiling-hub-premium) — Client Product Catalogue
+A premium product-discovery website for a construction-materials business. Focused on responsive UI, product pages, smooth interactions, and enquiry-led conversion rather than checkout-based e-commerce.
 
-A TypeScript/Node.js command-line tool for counting lines, words, and characters from files or piped standard input. Supports script-friendly JSON output and has no runtime dependencies.
+**[Live website: ceilinghub.in](https://ceilinghub.in)**  
+`React` `Vite` `Tailwind CSS` `Framer Motion` `Vercel`
 
-`TypeScript` `Node.js` `CLI` `GitHub Actions`
+#### [dev-utility-tool](https://github.com/pathak-codes/dev-utility-tool) — TypeScript CLI Toolkit
+A lightweight command-line utility for text statistics across files and standard input, with script-friendly output and no runtime dependencies.
 
-#### [Ceiling Hub Premium](https://github.com/pathak-codes/ceiling-hub-premium) — Product Catalogue Website
+`TypeScript` `Node.js` `CLI` `node:test` `GitHub Actions`
 
-A frontend project for a client-facing product catalogue, focused on product discovery and clear enquiry flows rather than checkout-based e-commerce.
-
-`React` `Vite` `Tailwind CSS` `Framer Motion`
-
-#### [Typing Speed Analyzer](https://github.com/pathak-codes/Typing-Speed-Analyzer) — Python Project
-
-A typing-speed analysis project built with Python.
+#### [Typing Speed Analyzer](https://github.com/pathak-codes/Typing-Speed-Analyzer) — Python
+A small Python project for measuring typing speed. One of my earlier projects as I built up my programming fundamentals.
 
 `Python`
 
----
+### `$ tail -n 2 current-work.log`
 
-### `$ tail -n +1 current-work.log`
+- **CCTV face-analysis research prototype:** Exploring face detection and embedding-based similarity ranking on degraded footage, alongside frame-quality assessment. This is a research prototype; similarity scores are not proof of identity, and results require human review. The code is not currently public.
+- **On-demand home-services platform:** Prototyping hyperlocal provider discovery, location-based matching, and marketplace pricing workflows.
 
-**CCTV Face-Analysis Pipeline — research prototype**  
-Exploring face detection on degraded footage, SCRFD, ArcFace/InsightFace embeddings, frame-quality scoring, and similarity ranking. The goal is to support review of difficult footage, not to treat a model score as proof of identity. This project is in progress and does not have a public repository linked here.
+### `$ nmap --skills`
 
-**On-Demand Local Home Services Engine — product prototype**  
-A hyperlocal service marketplace concept covering provider matching, location-based discovery, pricing logic, and commission-wallet workflows.
-
----
-
-### `$ nmap -sV --skills`
-
-| Area | Tools and technologies |
+| Area | Technologies |
 |---|---|
 | **Languages** | TypeScript, JavaScript, Python, SQL, HTML, CSS |
 | **Frontend** | React, Vite, Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, REST APIs, Prisma |
+| **Backend & APIs** | Node.js, Express, REST APIs, Prisma |
 | **Databases** | PostgreSQL, MongoDB |
-| **Computer Vision** | OpenCV, SCRFD, ArcFace, InsightFace |
-| **Security & Automation** | Nmap, Python automation, forensic workflow prototyping |
+| **Security & Computer Vision** | Nmap, OpenCV, SCRFD, ArcFace, InsightFace |
 | **Tools & Environment** | Git, GitHub Actions, Docker, Windows, WSL2/Ubuntu, PowerShell, Bash |
 
 ### `$ cat education.log`
 
-```text
-Degree   : BCA — Full Stack Development
-Institute: Jaipur National University, Jaipur
-Expected : 2027
-Experience: Cybersecurity internship — Rajasthan Police Cyber Cell
-```
+- **Degree:** BCA — Full Stack Development
+- **Institute:** Jaipur National University, Jaipur
+- **Expected graduation:** 2027
+- **Experience:** Cybersecurity internship — Rajasthan Police Cyber Cell
 
 ---
 
-### `$ printf 'looking for next challenge\n'`
+### `$ printf 'open to opportunities\n'`
 
-Open to **junior full-stack / software development roles** and opportunities involving **React, Node.js, automation, computer vision, or security tooling**. Interested in remote and on-site teams, practical engineering problems, and collaborations where I can contribute and keep learning.
+I'm interested in **junior software engineering and full-stack roles**, especially React, Node.js, backend/API development, and automation. I'm open to remote or on-site teams and internships where I can ship useful software, learn from experienced engineers, and take ownership of real problems.
 
-> “Security isn't a feature you bolt on; it's a property you design into the system.”
